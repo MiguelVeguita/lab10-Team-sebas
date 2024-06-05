@@ -16,6 +16,6 @@ public class UIManager : MonoBehaviour
     }
     public void Menu()
     {
-        SceneManager.LoadScene("New Scene");
+        SceneManager.LoadScene("Menu");
     }
 }
